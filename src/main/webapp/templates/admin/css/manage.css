@@ -1,0 +1,8 @@
+.btn-size{
+	width: 250px;
+}
+.btn-size:hover{
+	width: 250px;
+	background: #00a01b !important;
+	color: white;
+}
